@@ -66,15 +66,9 @@ We would like to thank our college faculty and peers for their support and guida
 # FrontEnd View of Home Page
 ![Screenshot (10)](https://github.com/user-attachments/assets/98bca344-f44b-4470-9b08-f83c6c94562e)
 ![Screenshot (11)](https://github.com/user-attachments/assets/89ae85c4-63d3-431f-9562-95e95102af59)
-![Screenshot (13)](https://github.com/user-attachments/assets/5daa6dbd-7c28-40b0-b96e-08e734cf5652)
 
 
 <hr>
-
-# About Page
-
-![Screenshot (14)](https://github.com/user-attachments/assets/48a25a76-9beb-4a09-ba2c-e7d955f249d0)
-
 
 <hr>
 
