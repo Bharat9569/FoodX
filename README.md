@@ -19,13 +19,9 @@ FoodX is designed to simplify the food ordering process, offering an intuitive i
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 
-## Team Members
 
-- **Ayush Yadav** (Team Leader)
-- Ayush Panday
-- Ayush Srivastava
-- Ayush Srivastava
-- Ashwin Gautam
+
+
 
 ## Installation
 
