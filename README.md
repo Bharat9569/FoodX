@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayushyadav89/FoodX
+   git clone https://github.com/Bharat9569/FoodX
 
 
 ## Contribution
